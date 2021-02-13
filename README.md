@@ -6,4 +6,4 @@ As per the red teaming methodology intial access is the first step to gain the f
 
 Name __angad__ is inspired by the epic story of the Ramayan. Angad who penetrate into the demon kingdom to get useful information which makes it easy to fight the war.
 
-Learn spear phishing on this link http://github.com - automatic!
+Learn spear phishing on this [Link](https://github.com)link
